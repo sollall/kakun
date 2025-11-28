@@ -1,5 +1,6 @@
 # 家訓
 
+```mermaid
 flowchart TD
   Start((人生))
   Start --> igakubu{医学部に行けるか}
@@ -9,3 +10,4 @@ flowchart TD
   kyutei -->|no| license{国家資格が取れるか}
   license -->|yes| kaikei[公認会計士等になる]
   license -->|no| bank[銀行に就職して客のビジネスをパクって起業する]
+```
